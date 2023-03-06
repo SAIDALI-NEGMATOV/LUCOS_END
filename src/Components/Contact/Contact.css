@@ -1,0 +1,11 @@
+.hegth{
+    height: 55vh;
+
+}
+
+.but {
+    padding: 10px 20px;
+    border-radius: 10px;
+    border-bottom-left-radius: 0px;
+    background: #58A9A5;;
+}

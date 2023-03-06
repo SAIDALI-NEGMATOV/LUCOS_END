@@ -1,0 +1,23 @@
+.button_one {
+    padding: 10px 30px;
+    border-radius: 10px;
+    border-bottom-left-radius: 0px;
+    background: rgba(88, 169, 165, 1);
+    color: #fff;
+}
+
+.height  {
+    height: 50vh;
+}
+
+.height_one {
+    height: 70vh;
+}
+
+
+.button_one:hover {
+    color: #58A9A5;
+    background-color: #fff;
+    transition: all 0.5s inherit;
+}
+

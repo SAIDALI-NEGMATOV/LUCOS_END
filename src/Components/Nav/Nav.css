@@ -1,0 +1,16 @@
+.text {
+    color: #58A9A5;
+}
+
+.button {
+    background-color: #58A9A5;
+    color: #fff;
+    padding: 10px 30px;
+}
+
+.button:hover {
+    color: #58A9A5;
+    background-color: #fff;
+    transition: all 0.5s inherit;
+}
+
